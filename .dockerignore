@@ -1,0 +1,8 @@
+artifact
+saved_models
+venv
+docs
+flowcharts
+notebooks
+.git
+sensor.csv
