@@ -1,4 +1,4 @@
-# Sensor-Fault-Detection
+# APS-Fault-Detection
 
 The Air Pressure System (APS) is a critical component of a heavy-duty vehicle that uses compressed air to force a piston to provide pressure to the brake pads, slowing the vehicle down.
 
@@ -23,7 +23,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/harshit711/Sensor-Fault-Detection.git
+git clone https://github.com/harshit711/APS-Fault-Detection.git
 ```
 
 ### Step 2- Create a conda environment after opening the repository
